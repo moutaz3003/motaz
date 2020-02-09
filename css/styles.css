@@ -85,13 +85,7 @@ h1 {
   font-family: 'Parisienne', cursive;
   font-size: 5.5em;
   font-weight: normal;
-  transition: font-size 2s;
-}
-
-h1:hover {
-  font-size: 6em;
-  padding-bottom: 0;
-  margin-bottom: 0;
+  transition: font-size 1.2s ease-in-out;
 }
 
 
